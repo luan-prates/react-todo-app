@@ -1,5 +1,5 @@
 import React from 'react'
-import Grid from '../template/grid'
+import Grid from '../utils/grid'
 import IconButton from '../template/iconButton'
 
 export default props => (
